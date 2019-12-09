@@ -8,3 +8,4 @@
 ## 方法名
 
 - [instanceof](./libs/instanceof.js)
+- [new](./libs/new.js)
