@@ -7,4 +7,4 @@
 
 ## 方法名
 
-- [instanceof](./doc/libs/instanceof.js)
+- [instanceof](./libs/instanceof.js)
