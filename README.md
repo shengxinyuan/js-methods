@@ -9,3 +9,6 @@
 
 - [instanceof](./libs/instanceof.js)
 - [new](./libs/new.js)
+- [call](./libs/call.js)
+- [apply](./libs/apply.js)
+- [bind](./libs/bind.js)
