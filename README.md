@@ -12,3 +12,5 @@
 - [call](./libs/call.js)
 - [apply](./libs/apply.js)
 - [bind](./libs/bind.js)
+- [Promise](./libs/Promise.js)
+- [generator](./libs/generator.js)
