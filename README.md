@@ -15,3 +15,4 @@
 - [Promise](./libs/Promise.js)
 - [generator](./libs/generator.js)
 - [flat](./libs/flat.js)
+- [reduce](./libs/reduce.js)
