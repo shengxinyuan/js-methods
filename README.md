@@ -14,3 +14,4 @@
 - [bind](./libs/bind.js)
 - [Promise](./libs/Promise.js)
 - [generator](./libs/generator.js)
+- [flat](./libs/flat.js)
